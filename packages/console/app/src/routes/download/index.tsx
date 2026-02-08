@@ -288,7 +288,7 @@ export default function Download() {
                   </span>
                   <span>VS Code</span>
                 </div>
-                <a href="https://opencode.ai/docs/ide/" data-component="action-button">
+                <a href="/docs/ide/" data-component="action-button">
                   {i18n.t("download.action.install")}
                 </a>
               </div>
@@ -312,7 +312,7 @@ export default function Download() {
                   </span>
                   <span>Cursor</span>
                 </div>
-                <a href="https://opencode.ai/docs/ide/" data-component="action-button">
+                <a href="/docs/ide/" data-component="action-button">
                   {i18n.t("download.action.install")}
                 </a>
               </div>
@@ -329,7 +329,7 @@ export default function Download() {
                   </span>
                   <span>Zed</span>
                 </div>
-                <a href="https://opencode.ai/docs/ide/" data-component="action-button">
+                <a href="/docs/ide/" data-component="action-button">
                   {i18n.t("download.action.install")}
                 </a>
               </div>
@@ -346,7 +346,7 @@ export default function Download() {
                   </span>
                   <span>Windsurf</span>
                 </div>
-                <a href="https://opencode.ai/docs/ide/" data-component="action-button">
+                <a href="/docs/ide/" data-component="action-button">
                   {i18n.t("download.action.install")}
                 </a>
               </div>
@@ -363,7 +363,7 @@ export default function Download() {
                   </span>
                   <span>VSCodium</span>
                 </div>
-                <a href="https://opencode.ai/docs/ide/" data-component="action-button">
+                <a href="/docs/ide/" data-component="action-button">
                   {i18n.t("download.action.install")}
                 </a>
               </div>
@@ -387,7 +387,7 @@ export default function Download() {
                   </span>
                   <span>GitHub</span>
                 </div>
-                <a href="https://opencode.ai/docs/github/" data-component="action-button">
+                <a href="/docs/github/" data-component="action-button">
                   {i18n.t("download.action.install")}
                 </a>
               </div>
@@ -404,7 +404,7 @@ export default function Download() {
                   </span>
                   <span>GitLab</span>
                 </div>
-                <a href="https://opencode.ai/docs/gitlab/" data-component="action-button">
+                <a href="/docs/gitlab/" data-component="action-button">
                   {i18n.t("download.action.install")}
                 </a>
               </div>
